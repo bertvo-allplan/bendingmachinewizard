@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<Element>
+    <StringTable>Allplan PythonParts string table</StringTable>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Basic Settings</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Start</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Extract all BVBS parameters to the corresponding Allplan attributes.\nThese attributes are not dynamic. Manual update is necessary.\nUse the "create IFC file" option to automatically export an IFC file with the attributes inserted.</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Run the wizard</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Generate IFC Export</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Path</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Export Theme</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Drawing Files to Export</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Active File</Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>All Files</Text>
+    </Item>
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Select Files</Text>
+    </Item>
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Drawing Files</Text>
+    </Item>
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Create Report</Text>
+    </Item>
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Advanced Settings</Text>
+    </Item>
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Edit default values of attribute parsing and set some other preferences.\nLast used settings are saved (per computer) and can be exported with a favorite.</Text>
+    </Item>
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Edit default values of attribute parsing.</Text>
+    </Item>
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Attribute Assignment</Text>
+    </Item>
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Rebar Mark</Text>
+    </Item>
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Rebar length</Text>
+    </Item>
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Rebar Diameter</Text>
+    </Item>
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Rebar Bend Angle</Text>
+    </Item>
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Length[A-Z]</Text>
+    </Item>
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Length[B-Z]</Text>
+    </Item>
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Angle[A-Z]</Text>
+    </Item>
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Assembly</Text>
+    </Item>
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Coupler Start</Text>
+    </Item>
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Coupler Start Fabricant</Text>
+    </Item>
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Coupler Start Type</Text>
+    </Item>
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Coupler End</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Coupler End Fabricant</Text>
+    </Item>
+    <Item>
+        <TextId>1031</TextId>
+        <Text>Coupler End Type</Text>
+    </Item>
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Add timestamp attribute</Text>
+    </Item>
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Rounding</Text>
+    </Item>
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Round total lengths to</Text>
+    </Item>
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Write to Allplan</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Continue</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Start</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Summary</Text>
+    </Item>
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Report</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Status</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Rebar Amount Total</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Rebar Amount Per Assembly</Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Rebar Arc Radius</Text>
+    </Item>
+    <Item>
+        <TextId>2000</TextId>
+        <Text></Text>
+    </Item>
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Segment lengths.\nDefine the attribute prefix to use: PREFIX.ABCD...\nAttributes are created programatically if the name does not exist yet.</Text>
+    </Item>
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Advanced Settings</Text>
+    </Item>
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Segment angles.\nDefine the attribute prefix to use: PREFIX.ABCD...\nAttributes are created programatically if the name does not exist yet.</Text>
+    </Item>
+
+    <Item>
+        <TextId>9020</TextId>
+        <Text>Preparing your data...</Text>
+    </Item>
+    <Item>
+        <TextId>9019</TextId>
+        <Text>Process Complete!</Text>
+    </Item>
+    <Item>
+        <TextId>9018</TextId>
+        <Text>Exporting IFC data...</Text>
+    </Item>
+    <Item>
+        <TextId>9017</TextId>
+        <Text>IFC Export failed. Please verify your parameters.</Text>
+    </Item>
+    <Item>
+        <TextId>9016</TextId>
+        <Text>The path for the IFC file could not be accessed.</Text>
+    </Item>
+    <Item>
+        <TextId>9015</TextId>
+        <Text>Not Implemented</Text>
+    </Item>
+    <Item>
+        <TextId>9014</TextId>
+        <Text>Unused</Text>
+    </Item>
+    <Item>
+        <TextId>9013</TextId>
+        <Text>v0.2 - WIP (10/24)</Text>
+    </Item>
+    <Item>
+        <TextId>9012</TextId>
+        <Text>Unused</Text>
+    </Item>
+    <Item>
+        <TextId>9011</TextId>
+        <Text>Could not create the bending machine data. Please try again.</Text>
+    </Item>
+    <Item>
+        <TextId>9010</TextId>
+        <Text>Could not create the bending machine data. Please try again.</Text>
+    </Item>
+    <Item>
+        <TextId>9009</TextId>
+        <Text>Unused</Text>
+    </Item>
+    <Item>
+        <TextId>9008</TextId>
+        <Text>Unused</Text>
+    </Item>
+    <Item>
+        <TextId>9007</TextId>
+        <Text>Unused</Text>
+    </Item>
+    <Item>
+        <TextId>9006</TextId>
+        <Text>Please check the attribute configuration. Some attributes are not defined.</Text>
+    </Item>
+    <Item>
+        <TextId>9005</TextId>
+        <Text>There was an error selecting rebar in the drawing. Is the drawing file corrupted? Please repair the data first.</Text>
+    </Item>
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Some of the Allplan data could not be attached to the BVBS information. Are all polygonal placements unlinked? The following mark numbers were skipped: </Text>
+    </Item>
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Could not parse the bending machine information. Aborting.</Text>
+    </Item>
+    <Item>
+        <TextId>9002</TextId>
+        <Text>IFC information is missing on reinforcement bars. Please rectify this first, then try again.</Text>
+    </Item>
+    <Item>
+        <TextId>9001</TextId>
+        <Text>There was an error assigning the attributes in Allplan. Please verify your configuration.</Text>
+    </Item>
+    <Item>
+        <TextId>9000</TextId>
+        <Text>There was an error creating new attributes for length and angle dimensions. Aborting.</Text>
+    </Item>
+</Element>
